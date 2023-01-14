@@ -1,0 +1,11 @@
+{
+    "editor.wordWrap": "on",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
