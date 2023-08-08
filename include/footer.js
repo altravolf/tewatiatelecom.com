@@ -52,7 +52,7 @@ class cusFooter extends HTMLElement {
         &copy; Copyright 2023 <strong><span>Tewatia Telecom Power Solution</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        Powered by <b style="color: gold;">Altra Volf</b></a>
+        Powered by <strong style="color: gold;">Altra Volf</strong></a>
       </div>
     </div>
   </footer>
